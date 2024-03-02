@@ -145,4 +145,4 @@ getgenv().Comet = {
     },
   }
 
-loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/ff113532a6070720b56a34f1932c393b.lua"))()
+loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/141757b5ae6598589b529d78c54b4af5.lua"))()
